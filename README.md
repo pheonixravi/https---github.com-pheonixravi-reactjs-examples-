@@ -1,3 +1,8 @@
+#add these dependency npm modules
+npm install redux react-redux axios
+npm install redux-thunk
+npm i redux-devtools-extension   
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
